@@ -161,5 +161,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# ignore the dataset
+# ignore the dataset and mlruns
 /01-intro/data
+/mlruns
